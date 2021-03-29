@@ -10,7 +10,7 @@ import (
 	cbor "github.com/ipfs/go-ipld-cbor"
 	cbg "github.com/whyrusleeping/cbor-gen"
 
-	"github.com/filecoin-project/go-amt-ipld/v3/internal"
+	"github.com/chenjianmei111/go-amt-ipld/v3/internal"
 )
 
 // node is described in more detail in its internal serialized form,

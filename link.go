@@ -3,7 +3,7 @@ package amt
 import (
 	"context"
 
-	"github.com/filecoin-project/go-amt-ipld/v3/internal"
+	"github.com/chenjianmei111/go-amt-ipld/v3/internal"
 	cid "github.com/ipfs/go-cid"
 	cbor "github.com/ipfs/go-ipld-cbor"
 )

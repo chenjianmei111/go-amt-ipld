@@ -8,7 +8,7 @@ Filecoin blockchain.**
 AMT is an array mapped trie, suitable for storing large arrays, including
 sparse arrays.
 
-**See https://godoc.org/github.com/filecoin-project/go-amt-ipld for more
+**See https://godoc.org/github.com/chenjianmei111/go-amt-ipld for more
  information and API details
 
 ## License
